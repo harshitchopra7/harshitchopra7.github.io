@@ -8,13 +8,5 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: #C0C0C0;
-  text-align: center;
-}
-.h{
-  color: #c2c2c2;
-
-}
-.hh{
-  max-width: 500px;
+  color: white;
 }
