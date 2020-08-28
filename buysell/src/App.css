@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+  }
+  
+.bg {
+    background-color: #F4F6F6;
+}
+
+  .center{
+    display: flex;
+    justify-content: center;
+  }
